@@ -57,7 +57,7 @@ function draw() {
   //stop trex from falling down
   trex.collide(invisibleGround);
 
-  spawnClouds(;
+   spawnClouds();
 
   drawSprites();
   
